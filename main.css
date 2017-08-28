@@ -1,0 +1,11 @@
+#fahrenheit {
+  display: none;
+}
+
+#fahrenheit.show {
+  display: block;
+}
+
+#celsius.hide {
+  display: none;
+}
