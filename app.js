@@ -51,8 +51,8 @@ var weatherApp = function () {
           dom.id("weather_icon").src = response.weather[0].icon;
           dom.id("weather_icon").alt = response.weather[0].description;
           dom.id("weather_temp").classList.add("button");
-          dom.id("celsius").textContent = parseInt(response.main.temp) + ' C';
-          dom.id("fahrenheit").textContent = parseInt((response.main.temp * 9 / 5 + 32)) + ' F';
+          dom.id("celsius").textContent = parseInt(response.main.temp);
+          dom.id("fahrenheit").textContent = parseInt((response.main.temp * 9 / 5 + 32));
         }
       });
     });

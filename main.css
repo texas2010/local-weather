@@ -1,11 +1,14 @@
-#fahrenheit {
+#fahrenheit,
+#fahrenheit + span {
   display: none;
 }
 
-#fahrenheit.show {
+#fahrenheit.show,
+#fahrenheit.show + span {
   display: block;
 }
 
-#celsius.hide {
+#celsius.hide,
+#celsius.hide + span {
   display: none;
 }
