@@ -1,0 +1,11 @@
+#fah-box {
+  display: none;
+}
+
+#fah-box.show{
+  display: block;
+}
+
+#cel-box.hide {
+  display: none;
+}

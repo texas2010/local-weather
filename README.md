@@ -1,1 +1,1 @@
-# freecodecamp_weather
+# my local weather project
