@@ -1,5 +1,5 @@
 {
-  "name": "local_weather",
+  "name": "local-weather",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,12 +11,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/texas2010/freecodecamp_weather.git"
+    "url": "git+https://github.com/texas2010/local-weather.git"
   },
   "bugs": {
-    "url": "https://github.com/texas2010/freecodecamp_weather/issues"
+    "url": "https://github.com/texas2010/local-weather/issues"
   },
-  "homepage": "https://github.com/texas2010/freecodecamp_weather#readme",
+  "homepage": "https://github.com/texas2010/local-weather#readme",
   "dependencies": {
     "babel-cli": "6.26.0",
     "babel-loader": "7.1.4",
